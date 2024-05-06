@@ -1,4 +1,4 @@
-%%streamlit_runner
+
 
 import streamlit as st
 from PIL import Image
